@@ -9,11 +9,8 @@
 - [Inteligência Artificial - Aydano Machado](#inteligência-artificial---aydano-machado)
   - [Problema dos Missionários](#problema-dos-missionários)
   - [Problema dos Metrôs de Paris](#problema-dos-metrôs-de-paris)
-  - [- Solução](#--solução)
   - [Problema do Caixeiro Viajante](#problema-do-caixeiro-viajante)
-  - [- Solução](#--solução-1)
   - [Jogo para dois jogadores](#jogo-para-dois-jogadores)
-  - [- Solução](#--solução-2)
   - [Informações do Autor](#informações-do-autor)
 ---
 ## Problema dos Missionários
