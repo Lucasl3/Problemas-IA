@@ -17,18 +17,6 @@
   - [Jogo para dois jogadores](#jogo-para-dois-jogadores)
   - [- Solução](#--solução-2)
   - [Informações do Autor](#informações-do-autor)
-
----
-
-## Requisitos Mínimos para Execução
-    Para executar os algoritmos é necessário ter  previamente instalado e configurado o GCC
-    (Compilador para linguagem C).
-[Voltar ao topo](#Inicio)
-## Para informações sobre como executar: 
-    Dirija-se ao subdiretório do problema desejado, lá haverá mais informações sobre o processo 
-    de compilar e executar o código.
-[Voltar ao topo](#Inicio)
-
 ---
 ## Problema dos Missionários
     Três missionários e três canibais estão em um lado do rio, juntamente com um
