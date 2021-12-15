@@ -26,7 +26,7 @@
 
     Implemente e resolva o problema de forma ótima, utilizando um algoritmo de busca
     apropriado. É boa idéia verificar a existência de estados repetidos?
-  - [Solução](https://github.com/paodealho404/ai/tree/main/missionarios)
+  - [Solução](https://github.com/Lucasl3/Problemas-IA/tree/main/Problema%20dos%20mission%C3%A1rios%20e%20canibais)
 
 [Voltar ao topo](#Inicio)
 
@@ -46,7 +46,7 @@
       4 minutos.
     Formule e implemente este problema em termos de estado inicial, estado final,
     operadores e função de avaliação para Busca heurística com A*.
-  - [Solução](https://github.com/paodealho404/ai/tree/main/paris)
+  - [Solução](https://github.com/Lucasl3/Problemas-IA/tree/main/Problema%20do%20metr%C3%B4%20de%20Paris)
 ---
 ## Problema do Caixeiro Viajante
     Um caixeiro viajante precisa visitar 10 cidades do interior de Pernambuco. Ele pede a
@@ -65,7 +65,7 @@
     inicial deve ser mantida, uma vez que o caixeiro mora lá ! A rota é fechada (ele volta
     à cidade de origem no final).
     
-  - [Solução](https://github.com/paodealho404/ai/tree/main/caixeiro)
+  - [Solução](https://github.com/Lucasl3/Problemas-IA/tree/main/Problema%20do%20caxeiro%20viajante)
 ---
 ## Jogo para dois jogadores
     Escolha um jogo para dois jogadores (ex.: jogo da velha, othelo, damas, xadrez, etc.) e
@@ -74,7 +74,7 @@
     Jogo Escolhido: Jogo da Velha.
     Descrição: Analisando o número de possibilidades de forma simplista, existem 362.880 (ou 9!) maneiras de se dispor a cruz e o círculo no tabuleiro, sem considerar jogadas vencedoras. Quando consideramos as combinações vencedoras, existem 255.168 jogos possíveis. Como não existe estratégia vencedora no jogo da velha, conquistar um triângulo depende de um erro do adversário. Entretanto, algumas delas são definidas através de uma única jogada do adversário. Mais informações disponíveis em: - [Wikipédia](https://pt.wikipedia.org/wiki/Jogo_da_velha)
     
-  - [Solução](https://github.com/paodealho404/ai/tree/main/minimax)
+  - [Solução](https://github.com/Lucasl3/Problemas-IA/tree/main/Jogo%20da%20velha%20com%20minimax)
 ---
 ## Informações do Autor
 
