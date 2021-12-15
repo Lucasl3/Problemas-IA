@@ -1,3 +1,4 @@
+# Saída Esperada
 <p align="center">
     <img src="https://github.com/Lucasl3/Problemas-IA/blob/main/Jogo%20da%20velha%20com%20minimax/saida.PNG">
   </p>
