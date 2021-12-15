@@ -26,7 +26,7 @@
 
     Implemente e resolva o problema de forma ótima, utilizando um algoritmo de busca
     apropriado. É boa idéia verificar a existência de estados repetidos?
-  - [Solução](https://github.com/Lucasl3/Problemas-IA/tree/main/Problema%20dos%20mission%C3%A1rios%20e%20canibais)
+  - [Solução](https://github.com/Lucasl3/Problemas-IA/tree/main/Mission%C3%A1rios%20e%20canibais)
 
 [Voltar ao topo](#Inicio)
 
@@ -46,7 +46,7 @@
       4 minutos.
     Formule e implemente este problema em termos de estado inicial, estado final,
     operadores e função de avaliação para Busca heurística com A*.
-  - [Solução](https://github.com/Lucasl3/Problemas-IA/tree/main/Problema%20do%20metr%C3%B4%20de%20Paris)
+  - [Solução](https://github.com/Lucasl3/Problemas-IA/tree/main/Metr%C3%B4%20de%20Paris)
 ---
 ## Problema do Caixeiro Viajante
     Um caixeiro viajante precisa visitar 10 cidades do interior de Pernambuco. Ele pede a
@@ -65,7 +65,7 @@
     inicial deve ser mantida, uma vez que o caixeiro mora lá ! A rota é fechada (ele volta
     à cidade de origem no final).
     
-  - [Solução](https://github.com/Lucasl3/Problemas-IA/tree/main/Problema%20do%20caxeiro%20viajante)
+  - [Solução](https://github.com/Lucasl3/Problemas-IA/tree/main/Caxeiro%20viajante)
 ---
 ## Jogo para dois jogadores
     Escolha um jogo para dois jogadores (ex.: jogo da velha, othelo, damas, xadrez, etc.) e
