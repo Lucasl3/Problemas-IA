@@ -6,9 +6,8 @@
     - Disciplina de Inteligência Artificial, ministrada pelo Prof. Aydano Machado
 
 ---
+- [Início](#Inicio)
 - [Inteligência Artificial - Aydano Machado](#inteligência-artificial---aydano-machado)
-  - [Requisitos Mínimos para Execução](#requisitos-mínimos-para-execução)
-  - [Para informações sobre como executar:](#para-informações-sobre-como-executar)
   - [Problema dos Missionários](#problema-dos-missionários)
   - [Problema dos Metrôs de Paris](#problema-dos-metrôs-de-paris)
   - [- Solução](#--solução)
