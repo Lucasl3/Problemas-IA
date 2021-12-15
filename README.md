@@ -6,7 +6,6 @@
     - Disciplina de Inteligência Artificial, ministrada pelo Prof. Aydano Machado
 
 ---
-- [Início](#Inicio)
 - [Inteligência Artificial - Aydano Machado](#inteligência-artificial---aydano-machado)
   - [Problema dos Missionários](#problema-dos-missionários)
   - [Problema dos Metrôs de Paris](#problema-dos-metrôs-de-paris)
