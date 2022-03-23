@@ -73,6 +73,9 @@
     
   - [Solução](https://github.com/Lucasl3/Problemas-IA/tree/main/Jogo%20da%20velha%20com%20minimax)
 ---
+## Algoritmo k-nearest neighbors (knn)
+  - [Solução](https://github.com/Lucasl3/Problemas-IA/tree/main/knn)
+---
 ## Informações do Autor
 
 - Github - [Lucas L. Cerqueira](https://github.com/Lucasl3)
